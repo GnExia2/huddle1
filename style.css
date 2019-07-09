@@ -1,9 +1,6 @@
 .attribution {
   font-size: 11px;
-  text-align: center;
 }
-
-
 
 .attribution a {
   color: hsl(228, 45%, 44%);
@@ -11,29 +8,51 @@
 
 .container {
   font-size: 18px;
-  text-align: center;
 }
 
 .row1 {
-  background-color: yellow;
+  background-image:url("./images/bg-hero-desktop.svg");
+  padding: 300px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
 }
 
 .row2 {
   background-color: blue;
+  padding: 200px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
 }
 
 .row3 {
   background-color: green;
+  padding: 200px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
 }
 
 .row4 {
   background-color: orange;
+  padding: 200px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
 }
 
 .row5 {
   background-color: purple;
+  padding: 100px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
 }
 
 .row6 {
   background-color: red;
+  padding: 100px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+footer {
+  background-color: yellow;
+  text-align: center;
 }
