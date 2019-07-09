@@ -1,0 +1,39 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.container {
+  font-size: 18px;
+  text-align: center;
+}
+
+.row1 {
+  background-color: yellow;
+}
+
+.row2 {
+  background-color: blue;
+}
+
+.row3 {
+  background-color: green;
+}
+
+.row4 {
+  background-color: orange;
+}
+
+.row5 {
+  background-color: purple;
+}
+
+.row6 {
+  background-color: red;
+}
